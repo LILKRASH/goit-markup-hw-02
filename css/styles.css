@@ -69,6 +69,14 @@ button {
   color: #404bbf;
 }
 
+.email {
+  color: inherit;
+}
+
+.number {
+  color: inherit;
+}
+
 /* ========== /ADDRESS STYLES ========== */
 
 /* ========== /HEADER STYLES ========== */
@@ -138,7 +146,7 @@ button {
   color: #2e2f42;
 }
 
-.photo-participant {
+.info-participant {
   background-color: #ffffff;
 }
 
