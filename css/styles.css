@@ -56,11 +56,15 @@ button {
 /* ========== /LINKS STYLES ========== */
 
 /* ========== ADDRESS STYLES ========== */
-.contacts {
+.contacts-address {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: inherit;
+}
+
+.contacts {
   color: inherit;
 }
 
