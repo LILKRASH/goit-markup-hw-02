@@ -56,25 +56,20 @@ button {
 /* ========== /LINKS STYLES ========== */
 
 /* ========== ADDRESS STYLES ========== */
-.contacts {
+.contacts-item {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.contacts {
   color: inherit;
 }
 
 .contacts:hover,
 .contacts:focus {
   color: #404bbf;
-}
-
-.email {
-  color: inherit;
-}
-
-.number {
-  color: inherit;
 }
 
 /* ========== /ADDRESS STYLES ========== */
